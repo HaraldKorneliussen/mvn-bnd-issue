@@ -1,0 +1,11 @@
+#
+# Example API
+#
+
+Bundle-Description: \
+        Just an example API 
+
+Require-Capability: \
+        compile-only
+
+Export-Package: org.example.example.api

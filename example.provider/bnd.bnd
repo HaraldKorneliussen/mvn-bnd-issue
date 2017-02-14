@@ -1,0 +1,7 @@
+#
+# Example API provider
+#
+
+Bundle-Description: Reexports the hello API
+
+Export-Package: org.example.example.api
